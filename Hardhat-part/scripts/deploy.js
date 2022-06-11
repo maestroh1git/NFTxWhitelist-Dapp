@@ -61,3 +61,4 @@ main()
 
   //Goerli Whitelist contract address- 0x39FcC466e5cc90d218D4DFb02F30384388e2Fa5C
   //Goerli Crypto Devs Contract Address: 0x8a13c03Ab37a04D05f1C24c64a3aE617BFd8E706
+  //0x5EA7A225d60AF7168F70E5CaF4407A6436b49A58
